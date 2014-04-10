@@ -92,7 +92,7 @@
 			<h1 class="headings">About the founder
 			</h1>
 
-			<h2>YEC was founded by Himanshu Gupta.
+			<h2>YEC was founded by <a href="in.linkedin.com/pub/himanshu-gupta/17/77a/834">Himanshu Gupta</a>.
 			</h2>
 
 		</div>
