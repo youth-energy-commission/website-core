@@ -1,0 +1,30 @@
+html,body,.container
+{
+	height:100%;
+	top:15px;
+}
+.container
+{
+	display:table;
+	width: 100%;
+	margin-top: -50px;
+	padding: 50px 0 0 0; /*set left/right padding according to needs*/
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+header
+{
+	background: green;
+	height: 50px;
+}
+
+.row
+{
+	height: 100%;
+	display: table-row;
+}
+.col-md-2, .col-md-10
+{
+	/*display: block;*/
+	float: none;
+}
