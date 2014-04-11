@@ -15,7 +15,7 @@
 
 		$(document).ready(function(){
 
-			$("#menu-home").addClass("active");
+			$("#menu-missions").addClass("active");
 
 		});
 
