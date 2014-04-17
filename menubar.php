@@ -7,6 +7,6 @@
 		<li><a href='check-soon.php' id="menu-articles"><span>Articles</span></a></li>
 		<li><a href='check-soon.php' id="menu-news"><span>News</span></a></li>
 		<!-- <li><a href='#'><span>Chapters</span></a></li> -->
-		<li class='last'><a href='check-soon.php' id="menu-contacts"><span>Contacts</span></a></li>
+		<li class='last'><a href='contacts.php' id="menu-contacts"><span>Contacts</span></a></li>
 	</ul>
 </div>

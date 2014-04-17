@@ -13,11 +13,11 @@
 
 	<script>
 
-	$(document).ready(function(){
+		$(document).ready(function(){
 
-		$("#menu-about-us").css("background", "#151515");
+			$("#menu-contacts").css("background", "#151515");
 
-	});
+		});
 
 
 	</script>
@@ -47,7 +47,7 @@
 
 		<div class="col-md-8" style="background:;">
 
-			<?php include("missions-content.php"); ?>
+			<?php include("contactText.php") ?>
 
 		</div>
 
