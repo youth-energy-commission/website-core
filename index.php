@@ -55,6 +55,8 @@
 
 			<?php include("social-buttons.php"); ?>
 
+			<?php include("twitter-timeline.php"); ?>
+
 		</div>
 
 	</div>
