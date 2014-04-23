@@ -15,7 +15,7 @@
 
 	$(document).ready(function(){
 
-		$("#menu-about-us").css("background", "#151515");
+		$("#menu-missions").css("background", "#151515");
 
 	});
 
@@ -53,7 +53,7 @@
 
 		<div class="col-md-2" style="background: ;"> 
 
-			<?php include("social-buttons.php"); ?>
+			<?php include("connect-buttons.php"); ?>
 
 		</div>
 

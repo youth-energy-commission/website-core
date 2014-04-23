@@ -99,7 +99,7 @@
 
 		<div class="col-md-2" style="background: ;"> 
 
-			<?php include("social-buttons.php"); ?>
+			<?php include("connect-buttons.php"); ?>
 
 		</div>
 
