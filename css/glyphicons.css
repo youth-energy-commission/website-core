@@ -1,0 +1,17 @@
+/* glyphicons :- underline and opacity; */
+
+.social-icon i{
+margin-left: 4px;
+margin-right: 4px;
+color:;
+opacity: 0.85;
+}
+
+.social-icon i:hover{
+opacity: 1;
+}
+
+.social-icon{
+text-decoration: none !important;
+color: auto;
+}
