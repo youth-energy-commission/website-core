@@ -15,8 +15,7 @@
 
 		$(document).ready(function(){
 
-			$("#menu-contacts").css("background", "#151515");
-
+			$("#menu-events").css("background", "#151515");
 		});
 
 
@@ -28,7 +27,7 @@
 
 <body>
 
-	<div class="container-fluid" style="text-align: center;">
+	<div class="container-fluid"  style="text-align: center;">
 
 		<?php include("name-and-logo.php"); ?>
 
@@ -47,7 +46,7 @@
 
 		<div class="col-md-8" style="background:;">
 
-			<?php include("contactText.php") ?>
+			<?php include("eventsText.php"); ?>
 
 		</div>
 
