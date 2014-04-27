@@ -10,7 +10,7 @@
 
 	<br/>
 
-	<a href="#" class="connect-button"><button class="btn btn-success">Associate with YEC</button>
+	<a href="http://goo.gl/GmKkLC" class="connect-button"><button class="btn btn-success">Associate with YEC</button>
 	</a>
 	<br/><br/>
 
