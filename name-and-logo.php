@@ -1,6 +1,8 @@
 <div class="col-md-2" style="background: ;">
 
-	<img src="logo.jpg" width="150" height="150"/><br/>
+	<a href="http://yecindia.com" style="text-decoration: none;">
+		<img src="logo.jpg" width="150" height="150"/><br/>
+	</a>
 	
 </div>
 
