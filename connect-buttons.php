@@ -10,11 +10,11 @@
 
 	<br/>
 
-	<a href="http://goo.gl/GmKkLC" class="connect-button"><button class="btn btn-success">Associate with YEC</button>
+	<a href="http://goo.gl/GmKkLC" target="_blank" class="connect-button"><button class="btn btn-success">Associate with YEC</button>
 	</a>
 	<br/><br/>
 
-	<a href="#" class="connect-button"><button class="btn btn-info">Have an idea? <br/>Share it with us.</button>
+	<a href="http://goo.gl/aUBHVx" target="_blank" class="connect-button"><button class="btn btn-info">Have an idea? <br/>Share it with us.</button>
 	</a>
 	<br/><br/>
 
