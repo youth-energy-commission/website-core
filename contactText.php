@@ -1,11 +1,35 @@
-<div class="container-fluid" style="text-align: center;">
-	
+<style>
+
+.col-md-6 a{
+	text-decoration: none !important;
+	opacity: 0.9;
+}
+
+.col-md-6 a:hover{
+	opacity: 1;
+}
+
+@font-face {
+	font-family: 'PTSans';
+	src: url('css/PTSans.woff') format('woff'), url('css/PTSans.ttf') format('truetype') ;
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+</style>
+
+<div class="container-fluid" style="font-family:PTSans; text-align: center;">
+
 	<div class="col-md-6">
 
 		<div>
 			<span> Himanshu Gupta &nbsp 
 				<a href="https://www.facebook.com/himanshu.gupta.121?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<span><!--Email ID-->
@@ -16,7 +40,10 @@
 		<div>
 			<span> Ssd Jagannadh &nbsp
 				<a href="https://www.facebook.com/ssd.jagannadh?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -33,7 +60,10 @@
 		<div>
 			<span>Arijit Chatterjee &nbsp 
 				<a href="https://www.facebook.com/arijit2301?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -48,7 +78,10 @@
 		<div>
 			<span>Sowmya Manukonda &nbsp 
 				<a href="https://www.facebook.com/sowmyamanu?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -63,7 +96,10 @@
 		<div>
 			<span> Akash Gupta &nbsp
 				<a href="https://www.facebook.com/TheKingofallTrolls?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -78,7 +114,10 @@
 		<div>
 			<span> Siddharth Kannan &nbsp
 				<a href="https://www.facebook.com/kannan.siddharth">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -93,7 +132,10 @@
 		<div>
 			<span> Asish Kumar Mishra &nbsp 
 				<a href="https://www.facebook.com/kumarasish1995?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -114,7 +156,10 @@
 		<div>
 			<span>Rahul Agarwal &nbsp 
 				<a href="https://www.facebook.com/r.agrawal90">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -129,7 +174,10 @@
 		<div>
 			<span> Anand Hariharan		 &nbsp
 				<a href="https://www.facebook.com/anand.hariharan.96?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -143,7 +191,10 @@
 		<div>
 			<span> Praveen Kumar &nbsp
 				<a href="https://www.facebook.com/profile.php?id=100001483399064&fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -156,7 +207,10 @@
 		<div>
 			<span>Vinay Dutta	&nbsp 
 				<a href="https://www.facebook.com/vinay.d.vemula">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -171,7 +225,10 @@
 		<div>
 			<span>Punit Pal &nbsp 
 				<a href="https://www.facebook.com/punit.k.pal?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -186,7 +243,10 @@
 		<div>
 			<span> Karan Gupta &nbsp
 				<a href="http://goo.gl/SwvxIm">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
@@ -201,7 +261,10 @@
 		<div>
 			<span> Jagannadh Sripada &nbsp 
 				<a href="https://www.facebook.com/jagannadh.sripada?fref=ts">
-					<img src="images/fb.png" height="20px"/>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x" style="color: 3b5998"></i>
+						<i class="fa fa-facebook fa-stack-1x" style="color: ffffff"></i>
+					</span>
 				</a>
 			</span>
 			<br>
