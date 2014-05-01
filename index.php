@@ -1,3 +1,9 @@
+<?php
+
+require 'write-history.php';
+
+?>
+
 <html>
 
 <head>
