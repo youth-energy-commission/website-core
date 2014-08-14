@@ -49,6 +49,12 @@ require 'write-history.php';
 				<?php include("menubar.php"); ?>
 
 			</div>
+
+			<div>
+
+				<?php include("mailing-list.php"); ?>
+
+			</div>
 		</div>
 
 		<div class="col-md-8" style="background:;">
