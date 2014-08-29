@@ -1,3 +1,5 @@
+
+
 <html>
 
 <head>
@@ -14,6 +16,9 @@
    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
    <script src="script.js"></script>
    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+   <style>
+   #cssmenu{}
+   </style>
 
    <!-- Set the active menubar tab -->
 
@@ -27,16 +32,15 @@
 
 
    </script>
+
    
    
    
 </head>
 
-<body style="margin-left: 20px; margin-right: 20px;">
+<body>
 
-   <br/>
-
-   <div class="container-fluid"  style="text-align: center;">
+   <div class="container-fluid" >
 
       <div class="col-md-2" style="background: ;">
 
@@ -50,23 +54,27 @@
 
          <span style="font-size: 40px; text-align: center; line-height:3em">Youth Energy Commission <span>
 
-            <div id='cssmenu' style="text-align:center">
-               <ul>
+            <div id='cssmenu' style="position:absolute; ">
+               <ul  >
                   <li><a href='#' class='active'>Home</a></li>
                   <li><a href='#'>About Us</a></li>
                   <li><a href='#'>Events</a></li>
                   <li><a href='#'>Articles</a></li>
                   <li class='has-sub'><a href='#'>Newsletter</a>
                      <ul>
-                        <li><a href='#'>Latest Issues</a></li>
-                        <li><a href='#'>Previous Issues</a></li>
+                        <li><a href='#'>Latest Issues</a>
+
+                        </li>
+                        <li><a href='#'>Previous Issues</a>
+
+                        </li>
                      </ul>
                   </li>
                   <li><a href='#'>Get Involved</a></li>
-                  <li><a href='#'>Contact Us</a></li>
+                  <li><a href='contact.html'>Contact Us</a></li>
                </ul>
             </div>
-
+            
          </div>
 
          <div class="col-md-2" style="background: ;">
@@ -88,6 +96,8 @@
                </a>
 
             </span>
+
+
          </div>
 
       </div>
@@ -96,10 +106,11 @@
 
       <div class="container-fluid">
 
-         <div class="col-md-2" style="background: ;">
+         <div class="col-md-2" >
 
 
          </div>
+
 
          <div class="col-md-8" style="background:;">
 
@@ -107,13 +118,35 @@
          </div>
 
          <div class="col-md-2" style="background: ;"> 
+            <div style="text-align: center; vertical-align: middle; font-color: black;">
+
+               <br/>
+
+               <a href="http://goo.gl/GmKkLC" target="_blank" class="connect-button"><button class="btn btn-success">Associate with YEC</button>
+               </a>
+               <br/><br/>
+
+               <a href="http://goo.gl/aUBHVx" target="_blank" class="connect-button"><button class="btn btn-info">Have an idea? <br/>Share it with us.</button>
+               </a>
+               <br/><br/>
 
 
+            </div>
+            <br/>
 
+            <a class="twitter-timeline" href="https://twitter.com/YEC_India" data-widget-id="457555811586154496">Tweets by @YEC_India</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
          </div>
 
       </div>
 
-   </body>
 
-   </html>
+
+
+   </div>
+
+</div>
+
+</body>
+
+</html>
