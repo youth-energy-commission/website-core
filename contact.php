@@ -2,7 +2,7 @@
 
 <head>
 
-   <title>Youth Energy Commission - Home </title>
+   <title>Youth Energy Commission - Contact Us </title>
 
    <?php include("mainInclude.php"); ?>
 

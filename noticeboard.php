@@ -2,7 +2,7 @@
 
 	<br/>
 
-	<div style="margin-left: 20px; margin-right: 20px; margin-top: 10px;">
+	<div style="margin-left: 10px; margin-right: 10px; margin-top: 10px;">
 
 		<span style="text-align: center; ">
 
