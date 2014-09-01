@@ -1,0 +1,1 @@
+You can get involved with YEC by opening a chapter at your institute.
