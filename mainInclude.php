@@ -28,4 +28,33 @@ body{
    text-decoration: none !important; 
 }
 
+.social-icon .facebook{
+   color: #3b5998;
+   opacity: 0.8;
+}
+
+.social-icon .facebook:hover{
+   opacity: 1.0;
+}
+
+
+.social-icon .twitter{
+   color: #55acee;
+   opacity: 0.8;
+}
+
+.social-icon .twitter:hover{
+   opacity: 1.0;
+}
+
+
+.social-icon .github{
+   color: black;
+}
+
+
+.social-icon .github:hover{
+   color: #4183c4;
+}
+
 </style>
