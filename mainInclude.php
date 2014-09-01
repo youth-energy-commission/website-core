@@ -22,6 +22,7 @@ body{
    margin-right: 20px;
    margin-left: 20px;
    margin-top: 20px;
+   font-family: PTSans;
 }
 
 .social-icon:hover{

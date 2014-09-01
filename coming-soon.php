@@ -52,7 +52,7 @@
 
       <div class="col-md-8" style="background:;">
 
-         <span class="fa" style="text-align: center; ">
+         <span style="text-align: center; ">
 
             <h1> We are still working on this page! Check again after some time! </h1>
 
@@ -62,9 +62,9 @@
       </div>
 
       <div class="col-md-2" style="background: ;">
-         
+
        <?php include("assocButtons.php"); ?>
-       
+
        <br/>
 
        <?php include("twitterfeed.php"); ?>

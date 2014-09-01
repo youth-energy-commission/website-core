@@ -13,17 +13,9 @@ div > span:first-child{
    font-size: 20px;
 }
 
-@font-face {
-   font-family: 'PTSans';
-   src: url('css/PTSans.woff') format('woff'), url('css/PTSans.ttf') format('truetype') ;
-   font-weight: bold;
-   font-style: normal;
-}
-
-
 </style>
 
-<div class="container-fluid fa" style="; text-align: center;">
+<div class="container-fluid" style="font-family: PTSans; text-align: center;">
 
    <!-- Heads -->
 
