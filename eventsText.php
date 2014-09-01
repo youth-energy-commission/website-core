@@ -1,0 +1,1 @@
+YEC IIT Kharagpur has conducted three guest lectures.
