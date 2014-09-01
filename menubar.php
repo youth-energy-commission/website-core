@@ -2,7 +2,7 @@
 
    <ul>
       <li id="home"><a href='index.php'>Home</a></li>
-      <li id="aboutus"><a href='coming-soon.php'>About Us</a></li>
+      <li id="aboutus"><a href='aboutus.php'>About Us</a></li>
       <li id="events"><a href='coming-soon.php'>Events</a></li>
       <li id="articles"><a href='coming-soon.php'>Articles</a></li>
       <li id="newsletter" class='has-sub'><a href='coming-soon.php'>Newsletter</a>
