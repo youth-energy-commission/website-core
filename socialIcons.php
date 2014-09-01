@@ -1,8 +1,8 @@
-<span style="text-align: center;">
+<span style="text-align: center; font-size: 50px !important">
 
 	<a href="https://www.facebook.com/YECYouthEnergyCommission" target="_blank" class="social-icon">
 
-		<i class="fa fa-facebook fa-4x facebook"  style="color: "></i>
+		<i class="fa fa-facebook facebook"  style="color: "></i>
 
 	</a>
 
@@ -10,7 +10,7 @@
 
 	<a href="https://twitter.com/YEC_India" style="color: " target="_blank" class="social-icon">
 
-		<i class="fa fa-twitter fa-4x twitter"></i>
+		<i class="fa fa-twitter twitter"></i>
 
 	</a>
 
@@ -18,7 +18,7 @@
 
 	<a href="https://github.com/youth-energy-commission" target="_blank" class="social-icon">
 
-		<i class="fa fa-github fa-4x github"></i>
+		<i class="fa fa-github github"></i>
 
 	</a>
 

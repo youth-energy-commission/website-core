@@ -1,4 +1,4 @@
-<span class="fa" style="font-size: 25px; ">
+<span style="font-size: 25px; ">
 
 	<b>Youth Energy Commission</b> aims to become a catalyst for accelerating the growth of youth in the energy sector. <br/>
 
