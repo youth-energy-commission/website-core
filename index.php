@@ -62,6 +62,8 @@
 
       <div class="col-md-8" style="background: ">
 
+         <?php include('imageSlider.php'); ?>
+
 
       </div>
 
@@ -89,5 +91,19 @@
 </div>
 
 </body>
+
+<script>
+
+$(document).ready(function(){
+
+   $(".carousel").carousel({
+
+      interval: 3000,
+      pause: "hover"
+
+   });
+
+});
+</script>
 
 </html>
