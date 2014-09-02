@@ -8,6 +8,12 @@
 
 <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
+<!-- Icon -->
+
+<link rel="icon" 
+      type="image/png" 
+      href="favicon.ico">
+
 <!-- Menubar -->
 
 <link rel="stylesheet" href="styles.css">
@@ -24,6 +30,14 @@ body{
    margin-top: 20px;
    font-family: PTSans;
 }
+
+/* general */
+
+.text-muted{
+   color: #777;
+}
+
+/* social icons */
 
 .social-icon:hover{
    text-decoration: none !important; 
