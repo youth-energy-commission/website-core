@@ -17,6 +17,9 @@
    });
 
    </script>
+   <link rel="icon" 
+      type="image/png" 
+      href="favicon.ico">
    
 </head>
 
