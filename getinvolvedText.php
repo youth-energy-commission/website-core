@@ -15,11 +15,16 @@
 
 			<h2>Create a YEC Chpater at your college</h2>
 
+			<h3 class="text-muted">
+				Become a part of the network consisting of the youngest people from throughout the country,
+				conduct events, have a great experience!
+			</h3>
+
 		</div>
 
-		<div class="col-md-5">
+		<div class="col-md-5 visible-lg">
 
-			<img src="images/square-images/chrome.png" height="300" width="300"/>
+			<!-- <img src="images/square-images/chrome.png" height="300" width="300"/> -->
 
 		</div>
 
@@ -27,9 +32,9 @@
 
 	<div class="row">
 
-		<div class="col-md-5">
+		<div class="col-md-5 visible-lg">
 
-			<img src="images/square-images/chrome.png" height="300" width="300"/>
+			<!-- <img src="images/square-images/chrome.png" height="300" width="300"/> -->
 
 		</div>
 
@@ -57,9 +62,9 @@
 
 		</div>
 
-		<div class="col-md-5">
+		<div class="col-md-5 visible-lg">
 
-			<img src="images/square-images/chrome.png" height="300" width="300"/>
+			<!-- <img src="images/square-images/chrome.png" height="300" width="300"/> -->
 
 		</div>
 
