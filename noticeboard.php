@@ -1,4 +1,4 @@
-<div style="background-color: black; opacity: 0.5; color: white; border-radius: 10px; ">
+<div style="background-color: black; opacity: 0.5; color: white; border-radius: 10px;">
 
 	<br/>
 
@@ -34,3 +34,5 @@
 
 	</div>
 </div>
+
+<hr/>
