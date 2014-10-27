@@ -24,7 +24,7 @@
 
 		<div class="col-md-5 visible-lg">
 
-			<!-- <img src="images/square-images/chrome.png" height="300" width="300"/> -->
+			<img src="images/create.jpg" height="300" width="300"/>
 
 		</div>
 
@@ -34,7 +34,7 @@
 
 		<div class="col-md-5 visible-lg">
 
-			<!-- <img src="images/square-images/chrome.png" height="300" width="300"/> -->
+			<img src="images/conduct.jpg" height="300" width="300"/>
 
 		</div>
 
@@ -64,7 +64,7 @@
 
 		<div class="col-md-5 visible-lg">
 
-			<!-- <img src="images/square-images/chrome.png" height="300" width="300"/> -->
+			<img src="images/contribute.jpg" height="300" width="300"/>
 
 		</div>
 
